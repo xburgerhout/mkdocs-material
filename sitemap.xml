@@ -41,7 +41,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/extensions/revision-date/</loc>
+     <loc>https://squidfunk.github.io/mkdocs-material/plugins/minify-html/</loc>
+     <lastmod>2019-12-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/plugins/revision-date/</loc>
+     <lastmod>2019-12-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/plugins/search/</loc>
      <lastmod>2019-12-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
